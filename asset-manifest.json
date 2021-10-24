@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "./main.03b9cbc5.iframe.bundle.js",
+    "runtime~main.js": "./runtime~main.57a359f6.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.7f006948.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.7f006948.iframe.bundle.js.map",
+    "iframe.html": "./iframe.html",
+    "static/media/chevron-left.bcd78cb6.svg": "./static/media/chevron-left.bcd78cb6.svg",
+    "static/media/chevron-right.4773e840.svg": "./static/media/chevron-right.4773e840.svg",
+    "vendors~main.7f006948.iframe.bundle.js.LICENSE.txt": "./vendors~main.7f006948.iframe.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.57a359f6.iframe.bundle.js",
+    "vendors~main.7f006948.iframe.bundle.js",
+    "main.03b9cbc5.iframe.bundle.js"
+  ]
+}
